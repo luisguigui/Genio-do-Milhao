@@ -30,11 +30,11 @@ Certifica-te de que tens o Python instalado.
 
 Instala a biblioteca necessária:
 
-Bash
+
 pip install customtkinter
 Executa o script:
 
-Bash
+
 python nome_do_arquivo.py
 🧠 Estrutura do Código
 O código está organizado para facilitar a manutenção:
