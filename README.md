@@ -186,7 +186,7 @@ Genio-do-Milhao/
 
 ### 📋 Classes Principais
 
-#### 🎮 **EstadoJogo**
+#### 🎮 **Estado Jogo**
 Gerencia toda a lógica pura do jogo, sem dependência de UI.
 
 | Atributo | Tipo | Descrição |
